@@ -28,35 +28,35 @@ content = """
 	<title> Revenue chart </title>
 	<body>
 		<table border="2" cellspacing="2" cellpadding="3">
-			<caption> Top five highest revenue generating software companies </caption>
+			<caption> Top 5 Revenue Generating Companies </caption>
 				<tr>
-					<th> Serial Number </th>
-					<th> Companies </th>
-					<th> Revenue Generated </th>
+					<th> S.NO </th>
+					<th> COMPANY </th>
+					<th> REVENUE</th>
 				</tr>
 				<tr>
-					<th> 1, </th>
-					<td> Microsoft </td>
+					<th> 1. </th>
+					<td> Microsoft Corp </td>
 					<td> $203.08 billion </td>
 				</tr>
 				<tr>
-					<th> 2, </th>
-					<td> Oracle </td>
+					<th> 2. </th>
+					<td> Oracle Corp </td>
 					<td> $46.07 billion </td>
 				</tr>
 				<tr>
-					<th> 3, </th>
-					<td> SAP </td>
+					<th> 3. </th>
+					<td> SAP SE </td>
 					<td> $32.97 billion </td>
 				</tr>		
 				<tr>
-					<th> 4, </th>
-					<td> Salesforce </td>
+					<th> 4. </th>
+					<td> SALESFORCE Inc </td>
 					<td> $30.29 billion </td>
 				</tr>
 				<tr>
-					<th> 5, </th>
-					<td> Adobe </td>
+					<th> 5. </th>
+					<td> Adobe Inc </td>
 					<td> $17.61 billion </td>
 				</tr>
 
@@ -79,7 +79,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![image](https://github.com/Saiguruchandran/simplewebserver/assets/144870946/e80ffea1-f63e-4c0e-a2b4-9368c73c46ba)
-![image](https://github.com/Saiguruchandran/simplewebserver/assets/144870946/bcbb3599-6737-4271-8208-8f16e03a35ab)
+![screenshot13](https://github.com/Saiguruchandran/simplewebserver/assets/144870946/0d05aed9-eab2-458e-b14a-f1eae584659d)
+
+
 
 
 ## RESULT:
